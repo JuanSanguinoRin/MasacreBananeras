@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c483f1a45dfedc040880470c752ff0a4, type: 3}
+  m_Name: 2
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: Un dia soleado, George, un hombre trabajador, despierta de su humilde hogar,
+      prepara sus cosas, y se alista para trabajar, sin antes, despedir a su esposa.
+    speaker: {fileID: 11400000, guid: f7784f1a8da38de48b9873334d625aa4, type: 2}
+  background: {fileID: 21300000, guid: 7d2b57df37dbfb84286c423730fbcba8, type: 3}
+  nextScene: {fileID: 0}
